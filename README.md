@@ -1,6 +1,7 @@
 ## === MapFusion ===
 
 Contributors: Charlie the Nerdica, Frank  
+Website: [https://www.mapfusion.site](https://www.mapfusion.site)  
 Tags: maps, markers, integration  
 Requires at least: 5.8  
 Tested up to: 6.7.1  
