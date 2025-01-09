@@ -1,14 +1,13 @@
-=== MapFusion ===
-Contributors: Charlie the Nerdica, Frank
-Tags: maps, markers, integration
-Requires at least: 5.8
-Tested up to: 6.7.1
-Requires PHP: 7.4
-Stable tag: 1.1.0
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+## === MapFusion ===
 
-# MapFusion
+Contributors: Charlie the Nerdica, Frank  
+Tags: maps, markers, integration  
+Requires at least: 5.8  
+Tested up to: 6.7.1  
+Requires PHP: 7.4  
+Stable tag: 1.1.0  
+License: GPLv2 or later  
+License URI: https://www.gnu.org/licenses/gpl-2.0.html  
 
 ## Description
 MapFusion is a WordPress plugin that bridges the gap between Make and WP Go Maps Pro, providing powerful tools for managing maps, markers, and advanced integrations. The PRO version unlocks additional features such as license validation, advanced integrations, multi-site compatibility, and automatic updates.
