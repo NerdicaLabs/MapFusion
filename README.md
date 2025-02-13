@@ -1,13 +1,13 @@
 ## === MapFusion ===
-Author: nerdicalabs
-Contributors: charlienerdica, Frank
-Tags: maps, markers, integration
-Requires at least: 5.8
-Tested up to: 6.7.1
-Requires PHP: 7.4
-Stable tag: 1.5.0
-License: GPLv3 or later
-License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Author: nerdicalabs  
+Contributors: charlienerdica, Frank  
+Tags: maps, markers, integration  
+Requires at least: 5.8  
+Tested up to: 6.7.1  
+Requires PHP: 7.4  
+Stable tag: 1.5.0  
+License: GPLv3 or later  
+License URI: https://www.gnu.org/licenses/gpl-3.0.html  
 
 Powerful mapping integration for WP Go Maps Pro.
 
